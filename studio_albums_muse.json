@@ -1,0 +1,216 @@
+[
+  {
+    "title": "Showbiz",
+    "artist": "Muse",
+    "year": 1999,
+    "genre": [
+      "progressive rock",
+      "alternative rock",
+      "indie rock",
+      "neoprogressive"
+    ],
+    "totalTracks": 12,
+    "duration": "49.28",
+    "tracks": [
+      "Sunburn",
+      "Muscle Museum",
+      "Fillip",
+      "Falling Down",
+      "Cave",
+      "Showbiz",
+      "Unintended",
+      "Uno",
+      "Sober",
+      "Escape",
+      "Overdue",
+      "Hate This & I'll Love You"
+    ]
+  },
+  {
+    "title": "Origin of Symmetry",
+    "artist": "Muse",
+    "year": 2001,
+    "genre": [
+      "progressive rock",
+      "alternative rock",
+      "space rock",
+      "hard rock"
+    ],
+    "totalTracks": 11,
+    "duration": "51.27",
+    "tracks": [
+      "New Born",
+      "Bliss",
+      "Space Dementia",
+      "Hyper Music",
+      "Plug in Baby",
+      "Citizen Erased",
+      "Micro Cuts",
+      "Screenager",
+      "Darkshines",
+      "Feeling Good",
+      "Megalomania"
+    ]
+  },
+  {
+    "title": "Absolution",
+    "artist": "Muse",
+    "year": 2003,
+    "genre": ["alternative rock", "neoprogressive rock"],
+    "totalTracks": 14,
+    "duration": "52.11",
+    "tracks": [
+      "Intro",
+      "Apocalypse Please",
+      "Time Is Running Out ",
+      "Sing for Absolution ",
+      "Stockholm Syndrome",
+      "Falling Away with You",
+      "Interlude",
+      "Hysteria",
+      "Blackout",
+      "Butterflies & Hurricanes",
+      "The Small Print",
+      "Endlessly",
+      "Thoughts of a Dying Atheist",
+      "Ruled by Secrecy"
+    ]
+  },
+  {
+    "title": "Black Holes and Revelations",
+    "artist": "Muse",
+    "year": 2006,
+    "genre": ["alternative rock", "progressive rock"],
+    "totalTracks": 11,
+    "duration": "54.30",
+    "tracks": [
+      "Take a Bow",
+      "Starlight",
+      "Supermassive Black Hole",
+      "Map of the Problematique",
+      "Soldier's Poem",
+      "Invincible",
+      "Assassin",
+      "Exo-Politics",
+      "City of Delusion",
+      "Hoodoo",
+      "Knights of Cydonia"
+    ]
+  },
+  {
+    "title": "The Resistance",
+    "artist": "Muse",
+    "year": 2009,
+    "genre": [
+      "alternative rock",
+      "progressive rock",
+      "neoprogressive rock",
+      "symphonic rock"
+    ],
+    "totalTracks": 11,
+    "duration": "54.14",
+    "tracks": [
+      "Uprising",
+      "Resistance",
+      "Undisclosed Desires",
+      "United States of Eurasia (+Collateral Damage)",
+      "Guiding Light",
+      "Unnatural Selection",
+      "MK Ultra",
+      "I Belong to You (+Mon cœur s'ouvre à ta voix)",
+      "Exogenesis: Symphony Part I (Overture)",
+      "Exogenesis: Symphony Part II (Cross-Pollination)",
+      "Exogenesis: Symphony Part III (Redemption)"
+    ]
+  },
+  {
+    "title": "The 2nd Law",
+    "artist": "Muse",
+    "year": 2012,
+    "genre": [
+      "alternative rock",
+      "electronic rock",
+      "neoprogressive rock",
+      "symphonic rock"
+    ],
+    "totalTracks": 13,
+    "duration": "53.26",
+    "tracks": [
+      "Supremacy",
+      "Madness",
+      "Panic Station",
+      "Prelude",
+      "Survival",
+      "Follow Me",
+      "Animals",
+      "Explorers",
+      "Big Freeze",
+      "Save Me",
+      "Liquid State",
+      "The 2nd Law: Unsustainable",
+      "The 2nd Law: Isolated System"
+    ]
+  },
+  {
+    "title": "Drones",
+    "artist": "Muse",
+    "year": 2015,
+    "genre": ["alternative rock", "hard rock"],
+    "totalTracks": 12,
+    "duration": "52.38",
+    "tracks": [
+      "Dead Inside",
+      "[Drill Sergeant]",
+      "Psycho",
+      "Mercy",
+      "Reapers",
+      "The Handler",
+      "[JFK]",
+      "Defector",
+      "Revolt",
+      "Aftermath",
+      "The Globalist"
+    ]
+  },
+  {
+    "title": "Simulation Theory",
+    "artist": "Muse",
+    "year": 2018,
+    "genre": ["pop rock", "electronic rock", "synth pop"],
+    "totalTracks": 11,
+    "duration": "42.02",
+    "tracks": [
+      "Algorithm",
+      "The Dark Side",
+      "Pressure",
+      "Propaganda",
+      "Break It to Me",
+      "Something Human",
+      "Thought Contagion",
+      "Get Up and Fight",
+      "Blockades",
+      "Dig Down",
+      "The Void"
+    ]
+  },
+  {
+    "title": "Simulation Theory",
+    "artist": "Muse",
+    "year": 2022,
+    "genre": ["alternative rock"],
+    "totalTracks": 10,
+    "duration": "37.35",
+    "tracks": [
+      "Will of the People",
+      "Compliance",
+      "Liberation",
+      "Won't Stand Down",
+      "Ghosts (How Can I Move On)",
+      "You Make Me Feel Like It's Halloween",
+      "Kill or Be Killed",
+      "Verona",
+      "Euphoria",
+      "We Are Fucking Fucked"
+    ]
+  }
+]
